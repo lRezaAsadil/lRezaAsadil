@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">I am a senior web developer with 1 years of programming experience💻️</h2>
+<h2 align="left">I am a junior web developer with 1 years of programming experience💻️</h2>
 
 ###
 
@@ -16,15 +16,11 @@
 
 ###
 
-<h4 align="left">Familiarity in the process of system development, testing and troubleshooting👾</h4>
-
-###
-
 <h4 align="left">I have the ability to work in groups and individually💪</h4>
 
 ###
 
-<h4 align="left">Skilled in the fields of React front-end programming tools👇️👨‍💻</h4>
+<h4 align="left">Skilled in the fields of React.js , Html5 , Css3 , Bootstrap front-end programming tools👇️👨‍💻</h4>
 
 ###
 
@@ -49,6 +45,9 @@
   </a>
   <a href="https://t.me/rezalpv" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://instagram.com/_mr.asadi?igshid=YmMyMTA2M2Y=" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
 </div>
 
