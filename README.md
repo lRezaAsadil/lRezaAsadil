@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">I'm interested in solving challenges, daily progress and dynamic work environment⚡️</h4>
+<h4 align="left">I'm interested in solving challenges, daily progress and dynamic work environment 💲</h4>
 
 ###
 
@@ -20,22 +20,22 @@
 
 ###
 
-<h4 align="left">Skilled in the fields of React.js , Html5 , Css3 , Bootstrap front-end programming tools👇️👨‍💻</h4>
+<h4 align="left">Skilled in the fields of Html5 , Css3 , Bootstrap , Javascript and React front-end programming tools👨‍💻</h4>
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="45" width="65" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45" width="65" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45" width="65" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" width="65" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" width="65" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="45" width="65" alt="socketio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45" width="65" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" width="65" alt="redux logo"  />
 </div>
 
 ###
 
-<h6 align="left">Contact me👇️📲</h6>
+<h6 align="left">Contact me📲 : </h6>
 
 ###
 
