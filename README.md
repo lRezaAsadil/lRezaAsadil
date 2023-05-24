@@ -1,4 +1,4 @@
-<h2 align="center">Hi ! My name is Reza and I'm a Front-End developer</h2>
+<!-- <h2 align="center">Hi ! My name is Reza and I'm a Front-End developer</h2>
 
 ###
 
@@ -61,5 +61,28 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
 </div>
+ -->
+<!-- ### -->
 
-###
+<div align="center">
+  <img height="209" src="https://github.com/lRezaAsadil/Reza/blob/main/coding.gif"  />
+</div>
+
+<h2 align="center">Hi ! My name is Reza and I'm a Front-End developer</h2>
+<br><br>I am a junior web developer with 1 years of programming experience💻️<br>I'm interested in solving challenges, daily progress and dynamic work environment 💲<br>I have the ability to work in groups and individually💪
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg) 
+
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lrezaasadil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lrezaasadil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lrezaasadil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Lrezaasadil&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
