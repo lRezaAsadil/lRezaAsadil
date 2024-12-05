@@ -123,9 +123,9 @@ to integrate front-end functionality with back-end services.
 <h2 align="left"> 📊 GitHub Stats: </h2>
 <br>
 <div align=center>
-  <img width="280px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lRezaAsadil&layout=compact&theme=onedark" />
-  <img width="280px" src="https://github-readme-stats.vercel.app/api?username=lRezaAsadil&show_icons=true&theme=onedark">
-  <img width="280px" src="https://github-readme-activity-graph.vercel.app/graph?username=lRezaAsadil&theme=github">
+  <img width="270px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lRezaAsadil&layout=compact&theme=onedark" />
+  <img width="270px" src="https://github-readme-stats.vercel.app/api?username=lRezaAsadil&show_icons=true&theme=onedark">
+  <img width="270px" src="https://github-readme-activity-graph.vercel.app/graph?username=lRezaAsadil&theme=github">
 </div>
 
 <div align="left">
