@@ -12,6 +12,12 @@ jobs:
         with:
           cache: yarn
           node-version: 20
+      - name: Check for yarn.lock
+        run: |
+          if [ ! -f yarn.lock ]; then
+            echo "yarn.lock is missing. Please ensure it's committed to the repository.";
+            exit 1;
+          fi
       - run: yarn install --frozen-lockfile
 
       - run: npm run type
@@ -25,11 +31,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: update action.yml to use image from local Dockerfile
+      - name: Update action.yml to use image from local Dockerfile
         run: |
           sed -i "s/image: .*/image: Dockerfile/" action.yml
 
-      - name: generate-snake-game-from-github-contribution-grid
+      - name: Generate snake game from GitHub contribution grid
         id: generate-snake
         uses: ./
         with:
@@ -39,7 +45,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: ensure the generated file exists
+      - name: Ensure the generated file exists
         run: |
           ls dist
           test -f dist/github-contribution-grid-snake.svg
@@ -61,24 +67,30 @@ jobs:
         with:
           cache: yarn
           node-version: 20
+      - name: Check for yarn.lock
+        run: |
+          if [ ! -f yarn.lock ]; then
+            echo "yarn.lock is missing. Please ensure it's committed to the repository.";
+            exit 1;
+          fi
       - run: yarn install --frozen-lockfile
 
-      - name: build svg-only action
+      - name: Build SVG-only action
         run: |
           npm run build:action
           rm -r svg-only/dist
           mv packages/action/dist svg-only/dist
 
-      - name: generate-snake-game-from-github-contribution-grid
+      - name: Generate snake game from GitHub contribution grid
         id: generate-snake
         uses: ./svg-only
         with:
           github_user_name: platane
-          outputs: |
+          main: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: ensure the generated file exists
+      - name: Ensure the generated file exists
         run: |
           ls dist
           test -f dist/github-contribution-grid-snake.svg
@@ -99,6 +111,12 @@ jobs:
         with:
           cache: yarn
           node-version: 20
+      - name: Check for yarn.lock
+        run: |
+          if [ ! -f yarn.lock ]; then
+            echo "yarn.lock is missing. Please ensure it's committed to the repository.";
+            exit 1;
+          fi
       - run: yarn install --frozen-lockfile
 
       - run: npm run build:demo
