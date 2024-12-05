@@ -92,6 +92,7 @@ to integrate front-end functionality with back-end services.
  </div>
 <h2 align="left">🌐 Socials</h2>
 <div>
+ 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mr.asadi) 
   [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/RezaAsadi_Dev) 
 
