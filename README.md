@@ -131,7 +131,7 @@ to integrate front-end functionality with back-end services.
 <div align="left">
   <h2>🐍 My Contributions</h2>
   <br>
-  <img alt="snake eating my contributions" src="[https://github.com/lRezaAsadil/lRezaAsadil/blob/main/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/lRezaAsadil/lRezaAsadil/blob/main/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
